@@ -2,7 +2,9 @@
 
 ## Project Overview
 This project analyzes Netflix movies and TV shows using Power BI.
+## Dashboard Preview
 
+![Netflix Power BI Dashboard](Netflix%20Dashboard%20%286%29.png)
 ## Tools Used
 - Power BI
 - Data Cleaning
